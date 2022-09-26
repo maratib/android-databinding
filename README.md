@@ -6,7 +6,7 @@
         dataBinding true
     }
 ```
-
+### MainActivity.java
 ```java
         ActivityMainBinding binding;
 
